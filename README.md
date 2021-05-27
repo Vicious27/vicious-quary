@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Getting Started with this custom repo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Creating this custom repo for quick, Set up.
+"It's dark matter for me to mold."  -Vicious Ways
+
+# If you're in your project folder
+
+1. create a file directory.
+2. cd into file & initialize repository "git init"
+3. git remote add origin https://github.com/Vicious27/vicious-quary.git
+4. git pull
+5. npm install // To install all packages
+6. in git "rm -rf .git && git init"
+
+# If you "$ npx create-react-app custom-app" just finished loading.
+1. delete README.md // git add . 
+2. git commit -m 'changing templates'
+3. git remote add origin https://github.com/Vicious27/vicious-quary.git
+4. git pull
+5. npm install // To install all packages
+6. in git "rm -rf .git && git init"
+
+
 
 ## Available Scripts
 
